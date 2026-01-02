@@ -1,0 +1,8 @@
+{
+  "name": "Vana'diel Data Aggregator",
+  "description": "A high-performance dashboard for reconciling Final Fantasy XI data across multiple wiki sources using AI-powered validation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
